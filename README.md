@@ -1,0 +1,1 @@
+# pme-obsidian-templates
